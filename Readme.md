@@ -64,6 +64,5 @@ git push -u origin master
 ## 📄 License
 This project is licensed under the MIT License. Feel free to use and modify it.
 
----
-📩 **For any questions or issues, feel free to open an issue or contact me!**
+
 
